@@ -1,2 +1,1 @@
-# Spider--Man
 # Film-Sitesi
